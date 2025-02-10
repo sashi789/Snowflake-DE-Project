@@ -40,7 +40,7 @@ The architecture consists of multiple stages, including source ingestion, stagin
 ---
 
 ## **Data Flow Components**
-![ALT TEXT] (part-01/Part01-Sec03-Diagram-02.png)
+![Alt Text](part-01/Part01-Sec03-Diagram-02.png)
 ### **1. Ingestion & Automation**
 - APIs and other external data sources are pulled periodically.
 - **GitHub Actions** orchestrates the automated triggers for data ingestion.

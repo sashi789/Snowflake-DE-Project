@@ -8,7 +8,7 @@ This project demonstrates a complete data pipeline built on **Snowflake Cloud Da
 ---
 
 ## **Architecture Flow**
-![Alt Text](part-01/Part01-Sec03-Diagram-01.png)
+![Alt Text](07-diagrams/part-01/Part01-Sec03-Diagram-01.png)
 The architecture consists of multiple stages, including source ingestion, staging, data cleansing, consumption, and publishing for visualization.  
 
 ### **Layers Overview**
@@ -40,7 +40,7 @@ The architecture consists of multiple stages, including source ingestion, stagin
 ---
 
 ## **Data Flow Components**
-![Alt Text](part-01/Part01-Sec03-Diagram-02.png)
+![Alt Text](07-diagrams/part-01/Part01-Sec03-Diagram-02.png)
 ### **1. Ingestion & Automation**
 - APIs and other external data sources are pulled periodically.
 - **GitHub Actions** orchestrates the automated triggers for data ingestion.
